@@ -2,17 +2,11 @@
 
 ### I'm a frontend developer from Moscow.
 
-- 🔭 I’m currently working in small upwork agency.
 - 🌱 I’m currently learning Shopify theme/app development.
 - 📫 I’m looking to relocate to Japan next year or sooner if you have an offer for me 😄.
 
-## 📋 Hire me
-[CV](https://drive.google.com/file/d/1iML2no818YxE4XhbJbr5suoTwp9X9Kxv/view?usp=sharing)
-[<img alt="m-marc" align="left" style="vertical-align:middle" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/upwork.svg" />][upwork]
-
 ### 📩 Contact with me:
 
-[<img align="left" alt="mmaxdev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="m-marc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="m-marc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/telegram.svg" />][telegram]
 
