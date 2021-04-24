@@ -2,7 +2,7 @@
 
 ### I'm a frontend developer from Moscow.
 
-- 🌱 I’m currently learning Shopify theme/app development.
+- 🌱 I’m currently learning VueJS & Shopify theme/app development.
 - 📫 I’m looking to relocate to Japan next year or sooner if you have an offer for me 😄.
 
 ### 📩 Contact with me:
