@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Max Marchenkov!
 
-### I'm a frontend developer from Moscow.
+### I'm a frontend developer.
 
 - 🌱 I’m currently learning VueJS & Shopify theme/app development.
 - 📫 I’m looking to relocate to Japan next year or sooner if you have an offer for me 😄.
