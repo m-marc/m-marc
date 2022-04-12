@@ -3,7 +3,7 @@
 ### I'm a frontend developer.
 
 ## 📋 Hire me
-[CV](https://drive.google.com/file/d/1iML2no818YxE4XhbJbr5suoTwp9X9Kxv/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1TDIwRqknmVNBoplJr0E6FEJpLuPfMyDn/view?usp=sharing)
 [<img alt="m-marc" align="left" style="vertical-align:middle" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/upwork.svg" />][upwork]
 
 ### 📩 Contact with me:
