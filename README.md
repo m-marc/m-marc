@@ -1,24 +1,15 @@
-## Hi there 👋, my name is Max Marchenkov!
+### Hey 👋, my name is Maxim! I'm a frontend developer making great interfaces.
+<br/>
 
-### I'm a frontend developer.
-
-## 📋 Hire me
-[CV](https://drive.google.com/file/d/1TDIwRqknmVNBoplJr0E6FEJpLuPfMyDn/view?usp=sharing)
-[<img alt="m-marc" align="left" style="vertical-align:middle" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/upwork.svg" />][upwork]
-
-### 📩 Contact with me:
-
-[<img align="left" alt="m-marc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="m-marc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.18.0/icons/telegram.svg" />][telegram]
-
-<br />
+[![Linkedin](https://img.shields.io/badge/-Contact-090909?style=for-the-badge&logo=Linkedin)][linkedin]
 
 ### 💻 Languages and Technologies:
 
 ![ReactJs](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+![Scss](https://img.shields.io/badge/-Scss-090909?style=for-the-badge&logo=sass)
 ![Styled Components](https://img.shields.io/badge/-Styled&#032;Components-090909?style=for-the-badge)
 ![STORYBOOK](https://img.shields.io/badge/-StoryBook-090909?style=for-the-badge)
 
